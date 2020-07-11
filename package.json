@@ -1,0 +1,29 @@
+{
+  "name": "falemais",
+  "version": "1.0.0",
+  "description": "Aplicação web em REACTJS que calcula e compara valores de ligação telefônica",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CintyaAmaral/faleMais.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CintyaAmaral/faleMais/issues"
+  },
+  "homepage": "https://github.com/CintyaAmaral/faleMais#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.5.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.5.1"
+  }
+}
